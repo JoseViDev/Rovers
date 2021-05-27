@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rovers", "Rovers\Rovers.csproj", "{B27E72B4-74FF-4537-8DB0-A6CA0650351C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NasaMars", "NasaMars\NasaMars.csproj", "{8CEBDAD0-32F1-441F-8C22-A703E3CD7CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{5483B1A0-1728-4F2D-B2E9-E3A47DB73CE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B27E72B4-74FF-4537-8DB0-A6CA0650351C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27E72B4-74FF-4537-8DB0-A6CA0650351C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27E72B4-74FF-4537-8DB0-A6CA0650351C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27E72B4-74FF-4537-8DB0-A6CA0650351C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CEBDAD0-32F1-441F-8C22-A703E3CD7CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CEBDAD0-32F1-441F-8C22-A703E3CD7CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CEBDAD0-32F1-441F-8C22-A703E3CD7CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CEBDAD0-32F1-441F-8C22-A703E3CD7CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5483B1A0-1728-4F2D-B2E9-E3A47DB73CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5483B1A0-1728-4F2D-B2E9-E3A47DB73CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5483B1A0-1728-4F2D-B2E9-E3A47DB73CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5483B1A0-1728-4F2D-B2E9-E3A47DB73CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60D941B6-9FA3-4E11-9BC2-237A8437DA16}
+	EndGlobalSection
+EndGlobal
